@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "489591825879",
+    "firebase_url": "https://apartify-2fd8c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "apartify-2fd8c",
+    "storage_bucket": "apartify-2fd8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489591825879:android:d9f90a4f0fa74749675792",
+        "android_client_info": {
+          "package_name": "com.nat.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc5qs5GdpmwPtZ38-vFVb51vEjhWEMjno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
